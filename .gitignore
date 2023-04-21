@@ -109,8 +109,8 @@ ENV/
 # mypy
 .mypy_cache/
 
-#other
-.idea
-.vscode
-.DS_Store
-.sqlite3
+# other
+*.idea
+*.vscode
+*.DS_Store
+*.sqlite3
