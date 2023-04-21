@@ -108,4 +108,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#other
 .idea
+.vscode
+.DS_Store
